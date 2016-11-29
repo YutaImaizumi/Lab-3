@@ -1,3 +1,5 @@
-[Original: French] On ne voit bien qu'avec le coeur. L'essentiel est invisible pour les yeux.
+﻿[Original: French] On ne voit bien qu'avec le coeur. L'essentiel est invisible pour les yeux.
 [English translation] We can see clearly only with your heart. The essential things are invisible to the eyes.
 [Japanese translation] 心でしかよく見えないんだよ。大切なものは目には見えないんだ。
+
+-by Antoine de Saint-Exupéry, "The Little Prince"
